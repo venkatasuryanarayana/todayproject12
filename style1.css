@@ -1,0 +1,21 @@
+.row{
+	display: flex;
+}
+
+.cardbody img{
+	width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+	border:2px solid red;
+	box-shadow: 2px 3px 5px green;
+
+}
+
+.cardbody{
+	width: 90%;
+	text-align: center;
+	border: 2px solid black;
+
+}

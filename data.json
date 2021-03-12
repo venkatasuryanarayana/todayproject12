@@ -1,0 +1,20 @@
+{
+	"details":[
+		{
+			"image":"profile1.png",
+		"name":"surya",
+		"email":"surya@gmail.com",
+		"number":"+91-9999999999",
+		"Address":"kakinada"
+	},
+	{
+		"image":"profile1.png",
+		"name":"venkat",
+		"email":"venkat@gmail.com",
+		"number":"+91-988888",
+		"Address":"kakinada"
+	}
+
+]
+
+}
